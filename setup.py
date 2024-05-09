@@ -11,7 +11,7 @@ LONG_DESCRIPTION = (this_directory/'readme.md').read_text()
 setup(
     name="Mashup-102103038",
     version=VERSION,
-    author="intrinsicvardhan (Kunal )",
+    author="Kunal",
     author_email="kgarg1_be21@thapar.edu",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
